@@ -23,30 +23,30 @@ This business case focused on churn analysis of telecom firm. According to the b
 |Sales Representative|To get detail overview of total churn based on services | I can quickly know which service significantly enhance customer retention|A Power BI dashboard which visualize the total churn by services|
 
 ### Data Source
-The primary dataset used for this analysis is the "coffee_shop_sales.csv" file, containing detailed information about each sale made by the coffee shop.
+The primary dataset used for this analysis is the ["Customer_Data"](https://github.com/tasyaarf/Churn-Analysis/blob/90331876333aa2599a4df5cf652fa1661755a70e/Customer_Data.csv) file, containing detailed information about customer account an churn infromation.
 
 ### Data Cleansing and Transformation 
 The process includes:
    1. Data loading and inspection regarding missing values, the appropriate data type in each column 
    2. Develop clean data by eliminating duplicated and unstructured data
 
-by means of that process, the cleaned data can be seen on ["Coffee_Shop_Analysis_SQL_Script"](https://github.com/tasyaarf/SQL-PowerBI-Project-Coffee-Shop-Analysis-/blob/8c1061b5976be06e4e6eea79e04714ede5192233/Coffe_Shop_Analysis_SQL_Script.sql) files
+by means of that process, the cleaned data can be seen on ["customer_churn_data"](https://github.com/tasyaarf/Churn-Analysis/blob/90331876333aa2599a4df5cf652fa1661755a70e/customer_churn_data.csv) files
  
 
 ### Data Analysis 
-To fulfill the business request and user needs the file of SQL script can be seen on ["Coffee_Shop_Analysis_SQL_Script"](https://github.com/tasyaarf/SQL-PowerBI-Project-Coffee-Shop-Analysis-/blob/8c1061b5976be06e4e6eea79e04714ede5192233/Coffe_Shop_Analysis_SQL_Script.sql) files
+To fulfill the business request and user needs the file of SQL script can be seen on ["Churn_Analysis_Query"](https://github.com/tasyaarf/Churn-Analysis/blob/90331876333aa2599a4df5cf652fa1661755a70e/Churn_Analysis_Query.sql) files
 
 
 ### Churn Analysis Dashboard
 
 The churn analysis dashboard contain the overview churn analysis which can be track based on demographic aspect, account info, services and oversee the financial performance as well.
-the dashbord can be downloaded on ["Churn Analysis Report"](https://github.com/tasyaarf/SQL-PowerBI-Project-Coffee-Shop-Analysis-/blob/084dc6180bfadbd8a20ba100be5b6ae81cfaf704/coffee_sales_report.pbix) files 
+the dashbord can be downloaded on ["Churn Analysis Report"](https://github.com/tasyaarf/Churn-Analysis/blob/90331876333aa2599a4df5cf652fa1661755a70e/Churn_Analysis_Report.pbix) files 
 
 ![image](https://github.com/user-attachments/assets/953fb63a-7c85-4480-87b9-01198bd3dde8)
 
 
 
 ## References
-- http://www.youtube.com/@datatutorials1
+- https://www.youtube.com/@pivotalstats
 
 
