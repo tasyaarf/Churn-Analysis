@@ -34,7 +34,7 @@ by means of that process, the cleaned data can be seen on ["customer_churn_data"
  
 
 ### Data Analysis 
-To fulfill the business request and user needs the file of SQL script can be seen on ["Churn_Analysis_Query"](https://github.com/tasyaarf/Churn-Analysis/blob/90331876333aa2599a4df5cf652fa1661755a70e/Churn_Analysis_Query.sql) files
+To fulfill the business request and user needs the file of SQL script can be seen on ["Churn_Analysis_Query"](https://github.com/tasyaarf/Churn-Analysis/blob/90331876333aa2599a4df5cf652fa1661755a70e/Churn_Analysis_Query.sql) 
 
 
 ### Churn Analysis Dashboard
