@@ -42,6 +42,9 @@ To fulfill the business request and user needs the file of SQL script can be see
 The churn analysis dashboard contain the overview churn analysis which can be track based on demographic aspect, account info, services and oversee the financial performance as well.
 the dashbord can be downloaded on ["Churn Analysis Report"](https://github.com/tasyaarf/SQL-PowerBI-Project-Coffee-Shop-Analysis-/blob/084dc6180bfadbd8a20ba100be5b6ae81cfaf704/coffee_sales_report.pbix) files 
 
+![image](https://github.com/user-attachments/assets/953fb63a-7c85-4480-87b9-01198bd3dde8)
+
+
 
 ## References
 - http://www.youtube.com/@datatutorials1
